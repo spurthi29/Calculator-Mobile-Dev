@@ -11,7 +11,7 @@ This is a simple calculator app developed for Android that performs basic arithm
 
 ## Screenshots
 
-![Calculator Screenshot](link_to_your_screenshot) <!-- Replace with a link to your screenshot -->
+![Calculator Implementation]([(https://github.com/user-attachments/assets/b78bfef8-badd-4ac1-b28c-8296948c5836))
 
 ## Requirements
 
