@@ -9,9 +9,9 @@ This is a simple calculator app developed for Android that performs basic arithm
 - Input validation to handle incorrect inputs.
 - Clear button to reset the input field.
 
-## Screenshots
+## Implementation
 
-![Calculator Implementation]([(https://github.com/user-attachments/assets/b78bfef8-badd-4ac1-b28c-8296948c5836))
+![Calculator Implementation](https://github.com/user-attachments/assets/99e1858a-388b-42c7-9f22-2a0419fd6e15)
 
 ## Requirements
 
